@@ -62,11 +62,11 @@ img {
 .btn-primary {
   background-color: var(--primary);
   color: var(--white);
-  box-shadow: 0 4px 10px rgba(0, 122, 255, 0.3);
+  box-shadow: 0 4px 10px #25D366;
 }
 
 .btn-primary:hover {
-  background-color: #0062cc;
+  background-color: #25D366;
   transform: translateY(-3px);
   box-shadow: 0 6px 15px rgba(0, 122, 255, 0.4);
 }
@@ -81,7 +81,7 @@ img {
   background-color: var(--primary);
   color: var(--white);
   transform: translateY(-3px);
-  box-shadow: 0 6px 15px rgba(0, 122, 255, 0.3);
+  box-shadow: 0 6px 15px #25D366;
 }
 
 /* Header */
